@@ -1,0 +1,1 @@
+food website is designed to provide users with a delightful experience, offering a variety of features related to food, recipes, restaurants, and culinary exploration. The website is divided into several sections, each serving a specific purpose.
